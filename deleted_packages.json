@@ -1,0 +1,1437 @@
+[
+  {
+    "name": "ao",
+    "url": "https://github.com/ephja/nim-ao",
+    "method": "git",
+    "tags": [
+      "library",
+      "audio",
+      "deleted"
+    ],
+    "description": "A high-level libao wrapper",
+    "license": "MIT",
+    "web": "https://github.com/ephja/nim-ao"
+  },
+  {
+    "name": "linagl",
+    "url": "https://bitbucket.org/BitPuffin/linagl",
+    "method": "hg",
+    "tags": [
+      "library",
+      "opengl",
+      "math",
+      "game",
+      "deleted"
+    ],
+    "description": "OpenGL math library",
+    "license": "CC0",
+    "web": "https://bitbucket.org/BitPuffin/linagl"
+  },
+  {
+    "name": "vorbis",
+    "url": "https://bitbucket.org/BitPuffin/nim-vorbis",
+    "method": "hg",
+    "tags": [
+      "library",
+      "wrapper",
+      "binding",
+      "audio",
+      "sound",
+      "metadata",
+      "media",
+      "deleted"
+    ],
+    "description": "Binding to libvorbis",
+    "license": "CC0"
+  },
+  {
+    "name": "portaudio",
+    "url": "https://bitbucket.org/BitPuffin/nim-portaudio",
+    "method": "hg",
+    "tags": [
+      "library",
+      "wrapper",
+      "binding",
+      "audio",
+      "sound",
+      "media",
+      "io",
+      "deleted"
+    ],
+    "description": "Binding to portaudio",
+    "license": "CC0"
+  },
+  {
+    "name": "scrypt.nim",
+    "url": "https://bitbucket.org/BitPuffin/scrypt.nim",
+    "method": "hg",
+    "tags": [
+      "library",
+      "wrapper",
+      "binding",
+      "crypto",
+      "cryptography",
+      "hash",
+      "password",
+      "security",
+      "deleted"
+    ],
+    "description": "Binding and utilities for scrypt",
+    "license": "CC0"
+  },
+  {
+    "name": "csv2json",
+    "url": "https://github.com/achesak/nim-csv2json",
+    "method": "git",
+    "tags": [
+      "csv",
+      "json",
+      "deleted"
+    ],
+    "description": "Convert CSV files to JSON",
+    "license": "MIT",
+    "web": "https://github.com/achesak/nim-csv2json"
+  },
+  {
+    "name": "asyncevents",
+    "url": "https://github.com/tulayang/asyncevents",
+    "method": "git",
+    "tags": [
+      "event",
+      "future",
+      "asyncdispatch",
+      "deleted"
+    ],
+    "description": "Asynchronous event loop for progaming with MVC",
+    "license": "MIT",
+    "web": "https://github.com/tulayang/asyncevents"
+  },
+  {
+    "name": "gemf",
+    "url": "https://bitbucket.org/abudden/gemf.nim",
+    "method": "hg",
+    "license": "MIT",
+    "description": "Library for reading GEMF map tile stores",
+    "web": "https://www.cgtk.co.uk/gemf",
+    "tags": [
+      "maps",
+      "gemf",
+      "parser",
+      "deleted"
+    ]
+  },
+  {
+    "name": "libjwt",
+    "url": "https://github.com/nimscale/nim-libjwt",
+    "method": "git",
+    "tags": [
+      "jwt",
+      "libjwt",
+      "deleted"
+    ],
+    "description": "Bindings for libjwt",
+    "license": "LGPLv2.1",
+    "web": "https://github.com/nimscale/nim-libjwt"
+  },
+  {
+    "name": "forestdb",
+    "url": "https://github.com/nimscale/forestdb",
+    "method": "git",
+    "tags": [
+      "library",
+      "bTree",
+      "HB+-Trie",
+      "db",
+      "forestdb",
+      "deleted"
+    ],
+    "description": "ForestDB is fast key-value storage engine that is based on a Hierarchical B+-Tree based Trie, or HB+-Trie.",
+    "license": "Apache License 2.0",
+    "web": "https://github.com/nimscale/forestdb"
+  },
+  {
+    "name": "stor",
+    "url": "https://github.com/nimscale/stor",
+    "method": "git",
+    "tags": [
+      "storage",
+      "io",
+      "deleted"
+    ],
+    "description": "Efficient object storage system",
+    "license": "MIT",
+    "web": "https://github.com/nimscale/stor"
+  },
+  {
+    "name": "isa",
+    "url": "https://github.com/nimscale/isa",
+    "method": "git",
+    "tags": [
+      "erasure",
+      "hash",
+      "crypto",
+      "compression",
+      "deleted"
+    ],
+    "description": "Binding for Intel Storage Acceleration library",
+    "license": "Apache License 2.0",
+    "web": "https://github.com/nimscale/isa"
+  },
+  {
+    "name": "nimcx",
+    "url": "https://github.com/qqtop/nimcx",
+    "method": "git",
+    "tags": [
+      "library",
+      "linux",
+      "deleted"
+    ],
+    "description": "Color and utilities library for linux terminal.",
+    "license": "MIT",
+    "web": "https://github.com/qqtop/nimcx"
+  },
+  {
+    "name": "dpdk",
+    "url": "https://github.com/nimscale/dpdk",
+    "method": "git",
+    "tags": [
+      "library",
+      "dpdk",
+      "packet",
+      "processing",
+      "deleted"
+    ],
+    "description": "Library for fast packet processing",
+    "license": "Apache License 2.0",
+    "web": "https://dpdk.org/"
+  },
+  {
+    "name": "spdk",
+    "url": "https://github.com/nimscale/spdk.git",
+    "method": "git",
+    "tags": [
+      "library",
+      "SSD",
+      "NVME",
+      "io",
+      "storage",
+      "deleted"
+    ],
+    "description": "The Storage Performance Development Kit(SPDK) provides a set of tools and libraries for writing high performance, scalable, user-mode storage applications.",
+    "license": "MIT",
+    "web": "https://github.com/nimscale/spdk.git"
+  },
+  {
+    "name": "syphus",
+    "url": "https://github.com/makingspace/syphus",
+    "method": "git",
+    "tags": [
+      "optimization",
+      "tabu",
+      "deleted"
+    ],
+    "description": "An implementation of the tabu search heuristic in Nim.",
+    "license": "BSD-3",
+    "web": "https://github.com/makingspace/syphus-nim"
+  },
+  {
+    "name": "pdcurses",
+    "url": "https://github.com/lcrees/pdcurses",
+    "method": "git",
+    "tags": [
+      "pdcurses",
+      "curses",
+      "console",
+      "gui",
+      "deleted"
+    ],
+    "description": "Nim wrapper for PDCurses",
+    "license": "MIT",
+    "web": "https://github.com/lcrees/pdcurses"
+  },
+  {
+    "name": "libuv",
+    "url": "https://github.com/lcrees/libuv",
+    "method": "git",
+    "tags": [
+      "libuv",
+      "wrapper",
+      "node",
+      "networking",
+      "deleted"
+    ],
+    "description": "libuv bindings for Nim",
+    "license": "MIT",
+    "web": "https://github.com/lcrees/libuv"
+  },
+  {
+    "name": "romans",
+    "url": "https://github.com/lcrees/romans",
+    "method": "git",
+    "tags": [
+      "roman",
+      "numerals",
+      "deleted"
+    ],
+    "description": "Conversion between integers and Roman numerals",
+    "license": "MIT",
+    "web": "https://github.com/lcrees/romans"
+  },
+  {
+    "name": "gentabs",
+    "url": "https://github.com/lcrees/gentabs",
+    "method": "git",
+    "tags": [
+      "table",
+      "string",
+      "key",
+      "value",
+      "deleted"
+    ],
+    "description": "Efficient hash table that is a key-value mapping (removed from stdlib)",
+    "license": "MIT",
+    "web": "https://github.com/lcrees/gentabs"
+  },
+  {
+    "name": "BN",
+    "url": "https://github.com/MerosCrypto/BN",
+    "method": "git",
+    "tags": [
+      "bignumber",
+      "multiprecision",
+      "imath",
+      "deleted"
+    ],
+    "description": "A Nim Wrapper of the imath BigNumber library.",
+    "license": "MIT"
+  },
+  {
+    "name": "mc_events",
+    "url": "https://github.com/MerosCrypto/mc_events",
+    "method": "git",
+    "tags": [
+      "events",
+      "emitter",
+      "deleted"
+    ],
+    "description": "Event Based Programming for Nim.",
+    "license": "MIT"
+  },
+  {
+    "name": "nimetry",
+    "url": "https://github.com/refaqtor/nimetry",
+    "method": "git",
+    "tags": [
+      "plot",
+      "graph",
+      "chart",
+      "deleted"
+    ],
+    "description": "Plotting module in pure nim",
+    "license": "CC0",
+    "web": "https://github.com/refaqtor/nimetry",
+    "doc": "https://benjif.github.io/nimetry"
+  },
+  {
+    "name": "algebra",
+    "url": "https://github.com/refaqtor/nim-algebra",
+    "method": "git",
+    "tags": [
+      "algebra",
+      "parse",
+      "evaluate",
+      "mathematics",
+      "deleted"
+    ],
+    "description": "Algebraic expression parser and evaluator",
+    "license": "CC0",
+    "web": "https://github.com/refaqtor/nim-algebra"
+  },
+  {
+    "name": "gurl",
+    "url": "https://github.com/MaxUNof/gurl",
+    "method": "git",
+    "tags": [
+      "tags",
+      "http",
+      "generating",
+      "url",
+      "deleted"
+    ],
+    "description": "A little lib for generating URL with args.",
+    "license": "MIT",
+    "web": "https://github.com/MaxUNof/gurl"
+  },
+  {
+    "name": "nim-nmap",
+    "url": "https://github.com/blmvxer/nim-nmap",
+    "method": "git",
+    "tags": [
+      "nmap",
+      "networking",
+      "network mapper",
+      "blmvxer",
+      "deleted"
+    ],
+    "description": "A pure implementaion of nmap for nim.",
+    "license": "MIT",
+    "web": "https://github.com/blmvxer/nim-nmap"
+  },
+  {
+    "name": "redneck_translator",
+    "url": "https://github.com/juancarlospaco/redneck-translator",
+    "method": "git",
+    "tags": [
+      "redneck",
+      "string",
+      "slang",
+      "deleted"
+    ],
+    "description": "Redneck Translator for Y'all",
+    "license": "MIT",
+    "web": "https://github.com/juancarlospaco/redneck-translator"
+  },
+  {
+    "name": "sweetanitify",
+    "url": "https://github.com/juancarlospaco/sweetanitify",
+    "method": "git",
+    "tags": [
+      "sweet_anita",
+      "tourette",
+      "string",
+      "deleted"
+    ],
+    "description": "Sweet_Anita Translator, help spread awareness about Tourettes",
+    "license": "MIT",
+    "web": "https://github.com/juancarlospaco/sweetanitify"
+  },
+  {
+    "name": "htmlview",
+    "url": "https://github.com/yuchunzhou/htmlview",
+    "method": "git",
+    "tags": [
+      "html",
+      "browser",
+      "deleted"
+    ],
+    "description": "View the offline or online html page in browser",
+    "license": "MIT",
+    "web": "https://github.com/yuchunzhou/htmlview"
+  },
+  {
+    "name": "skbintext",
+    "url": "https://github.com/skrylar/skbintext",
+    "method": "git",
+    "tags": [
+      "hexdigest",
+      "hexadecimal",
+      "binary",
+      "deleted"
+    ],
+    "description": "Binary <-> text conversion.",
+    "license": "MPL",
+    "web": "https://github.com/Skrylar/skbintext"
+  },
+  {
+    "name": "skyhash",
+    "url": "https://github.com/Skrylar/skyhash",
+    "method": "git",
+    "tags": [
+      "blake2b",
+      "blake2s",
+      "spookyhash",
+      "deleted"
+    ],
+    "description": "Collection of hash algorithms ported to Nim",
+    "license": "CC0",
+    "web": "https://github.com/Skrylar/skyhash"
+  },
+  {
+    "name": "yukiko",
+    "url": "https://github.com/ethosa/yukiko",
+    "method": "git",
+    "tags": [
+      "gui",
+      "async",
+      "framework",
+      "sdl2",
+      "deleted"
+    ],
+    "description": "The Nim GUI asynchronous framework based on SDL2.",
+    "license": "AGPLv3",
+    "web": "https://github.com/ethosa/yukiko"
+  },
+  {
+    "name": "origin",
+    "url": "https://github.com/mfiano/origin.nim",
+    "method": "git",
+    "tags": [
+      "gamedev",
+      "library",
+      "math",
+      "matrix",
+      "vector",
+      "deleted"
+    ],
+    "description": "A graphics math library",
+    "license": "MIT",
+    "web": "https://github.com/mfiano/origin.nim"
+  },
+  {
+    "name": "dotprov",
+    "url": "https://github.com/minefuto/dotprov",
+    "method": "git",
+    "tags": [
+      "tool",
+      "binary",
+      "dotfiles",
+      "deleted"
+    ],
+    "description": "dotfiles provisioning tool",
+    "license": "MIT",
+    "web": "https://github.com/minefuto/dotprov"
+  },
+  {
+    "name": "qeu",
+    "url": "https://github.com/hyu1996/qeu",
+    "method": "git",
+    "tags": [
+      "comparison",
+      "3-way comparison",
+      "three-way comparison",
+      "deleted"
+    ],
+    "description": "Functionality for compare two values",
+    "license": "MIT",
+    "web": "https://github.com/hyu1996/qeu"
+  },
+  {
+    "name": "gradient",
+    "url": "https://github.com/luminosoda/gradient",
+    "method": "git",
+    "tags": [
+      "gradient",
+      "gradients",
+      "color",
+      "colors",
+      "deleted"
+    ],
+    "description": "Color gradients generation",
+    "license": "MIT",
+    "web": "https://github.com/luminosoda/gradient"
+  },
+  {
+    "name": "base64_decoder",
+    "url": "https://github.com/momeemt/base64_cui",
+    "method": "git",
+    "tags": [
+      "base64",
+      "cui",
+      "tool",
+      "deleted"
+    ],
+    "description": "base64 cui",
+    "license": "MIT",
+    "web": "https://github.com/momeemt/base64_cui"
+  },
+  {
+    "name": "ms",
+    "url": "https://github.com/fox-cat/ms",
+    "method": "git",
+    "tags": [
+      "library",
+      "time",
+      "format",
+      "ms",
+      "deleted"
+    ],
+    "description": "Convert various time formats to milliseconds",
+    "license": "MIT",
+    "web": "https://fox-cat.github.io/ms/",
+    "doc": "https://fox-cat.github.io/ms/"
+  },
+  {
+    "name": "blackvas_cli",
+    "url": "https://github.com/momeemt/BlackvasCli",
+    "method": "git",
+    "tags": [
+      "blackvas",
+      "web",
+      "cli",
+      "deleted"
+    ],
+    "description": "The Blackvas CLI",
+    "license": "MIT",
+    "web": "https://github.com/momeemt/BlackvasCli"
+  },
+  {
+    "name": "hats",
+    "url": "https://github.com/davidgarland/nim-hats",
+    "method": "git",
+    "tags": [
+      "array",
+      "arrays",
+      "hat",
+      "deleted"
+    ],
+    "description": "Various kinds of hashed array trees.",
+    "license": "MIT",
+    "web": "https://github.com/davidgarland/nim-hats"
+  },
+  {
+    "name": "composition",
+    "url": "https://github.com/DavidMeagher1/composition",
+    "method": "git",
+    "tags": [
+      "library",
+      "deleted"
+    ],
+    "description": "Composition pattern with event handling library in Nim",
+    "license": "MIT",
+    "web": "https://github.com/DavidMeagher1/composition"
+  },
+  {
+    "name": "matrixsdk",
+    "url": "https://github.com/dylhack/matrix-nim-sdk",
+    "method": "git",
+    "tags": [
+      "matrix",
+      "sdk",
+      "matrix.org",
+      "decentralization",
+      "protocol",
+      "deleted"
+    ],
+    "description": "A Matrix (https://matrix.org) client and appservice API wrapper for Nim!",
+    "license": "GPL-3.0",
+    "web": "https://github.com/dylhack/matrix-nim-sdk",
+    "doc": "https://github.com/shayanhabibi/dylhack/blob/matrix-nim-sdk/README.md"
+  },
+  {
+    "name": "psy",
+    "url": "https://github.com/psypac/psypac",
+    "method": "git",
+    "tags": [
+      "php-development",
+      "php",
+      "psy",
+      "psypac",
+      "cli",
+      "developer-tools",
+      "composer-alternative",
+      "deleted"
+    ],
+    "description": "A fast, multi-threading and disk space efficient package manager for PHP development and production environments",
+    "license": "GPL-3.0-or-later",
+    "web": "https://github.com/psypac/psypac"
+  },
+  {
+    "name": "vexhost",
+    "url": "https://github.com/roger-padrell/vexhost",
+    "method": "git",
+    "tags": [
+      "vex",
+      "vexhost",
+      "host"
+    ],
+    "description": "VexHost is a server/origin hoster for VEX.",
+    "license": "MIT",
+    "web": "https://github.com/roger-padrell/vexhost"
+  },
+  {
+    "name": "vexbox",
+    "url": "https://github.com/roger-padrell/vexbox",
+    "method": "git",
+    "tags": [
+      "vexbox",
+      "vex",
+      "snap"
+    ],
+    "description": "VexBox is a code snapping software.",
+    "license": "MIT",
+    "web": "https://github.com/roger-padrell/vexbox"
+  },
+  {
+    "name": "libsaedea",
+    "url": "https://github.com/m33m33/libsaedea",
+    "method": "git",
+    "tags": [
+      "libsaedea",
+      "library",
+      "encryption",
+      "decryption",
+      "symetric",
+      "crypto",
+      "cryptography",
+      "security"
+    ],
+    "description": "Library implementing a variation of the Simple And Efficient Data Encryption Algorithm (INTERNATIONAL JOURNAL OF SCIENTIFIC & TECHNOLOGY RESEARCH VOLUME 8, ISSUE 12, DECEMBER 2019 ISSN 2277-8616)",
+    "license": "MIT",
+    "web": "https://github.com/m33m33/libsaedea",
+    "doc": "https://github.com/m33m33/libsaedea/blob/master/README.md"
+  },
+  {
+    "name": "yahooweather",
+    "url": "https://github.com/achesak/nim-yahooweather",
+    "method": "git",
+    "tags": [
+      "library",
+      "wrapper",
+      "weather"
+    ],
+    "description": "Yahoo! Weather API wrapper",
+    "license": "MIT",
+    "web": "https://github.com/achesak/nim-yahooweather"
+  },
+  {
+    "name": "noaa",
+    "url": "https://github.com/achesak/nim-noaa",
+    "method": "git",
+    "tags": [
+      "library",
+      "wrapper",
+      "weather"
+    ],
+    "description": "NOAA weather API wrapper",
+    "license": "MIT",
+    "web": "https://github.com/achesak/nim-noaa"
+  },
+  {
+    "name": "extmath",
+    "url": "https://github.com/achesak/extmath.nim",
+    "method": "git",
+    "tags": [
+      "library",
+      "math",
+      "trigonometry"
+    ],
+    "description": "Nim math library",
+    "license": "MIT",
+    "web": "https://github.com/achesak/extmath.nim"
+  },
+  {
+    "name": "geonames",
+    "url": "https://github.com/achesak/nim-geonames",
+    "method": "git",
+    "tags": [
+      "library",
+      "wrapper",
+      "geography"
+    ],
+    "description": "GeoNames API wrapper",
+    "license": "MIT",
+    "web": "https://github.com/achesak/nim-geonames"
+  },
+  {
+    "name": "gravatar",
+    "url": "https://github.com/achesak/nim-gravatar",
+    "method": "git",
+    "tags": [
+      "library",
+      "wrapper",
+      "gravatar"
+    ],
+    "description": "Gravatar API wrapper",
+    "license": "MIT",
+    "web": "https://github.com/achesak/nim-gravatar"
+  },
+  {
+    "name": "coverartarchive",
+    "url": "https://github.com/achesak/nim-coverartarchive",
+    "method": "git",
+    "tags": [
+      "library",
+      "wrapper",
+      "cover art",
+      "music",
+      "metadata"
+    ],
+    "description": "Cover Art Archive API wrapper",
+    "license": "MIT",
+    "web": "https://github.com/achesak/nim-coverartarchive"
+  },
+  {
+    "name": "sndhdr",
+    "url": "https://github.com/achesak/nim-sndhdr",
+    "method": "git",
+    "tags": [
+      "library",
+      "formats",
+      "files",
+      "sound",
+      "audio"
+    ],
+    "description": "Library for detecting the format of a sound file",
+    "license": "MIT",
+    "web": "https://github.com/achesak/nim-sndhdr"
+  },
+  {
+    "name": "epub",
+    "url": "https://github.com/achesak/nim-epub",
+    "method": "git",
+    "tags": [
+      "library",
+      "epub",
+      "e-book"
+    ],
+    "description": "Module for working with EPUB e-book files",
+    "license": "MIT",
+    "web": "https://github.com/achesak/nim-epub"
+  },
+  {
+    "name": "ffbookmarks",
+    "url": "https://github.com/achesak/nim-ffbookmarks",
+    "method": "git",
+    "tags": [
+      "firefox",
+      "bookmarks",
+      "library"
+    ],
+    "description": "Nim module for working with Firefox bookmarks",
+    "license": "MIT",
+    "web": "https://github.com/achesak/nim-ffbookmarks"
+  },
+  {
+    "name": "uri2",
+    "url": "https://github.com/achesak/nim-uri2",
+    "method": "git",
+    "tags": [
+      "uri",
+      "url",
+      "library"
+    ],
+    "description": "Nim module for better URI handling",
+    "license": "MIT",
+    "web": "https://github.com/achesak/nim-uri2"
+  },
+  {
+    "name": "pwd",
+    "url": "https://github.com/achesak/nim-pwd",
+    "method": "git",
+    "tags": [
+      "library",
+      "unix",
+      "pwd",
+      "password"
+    ],
+    "description": "Nim port of Python's pwd module for working with the UNIX password file",
+    "license": "MIT",
+    "web": "https://github.com/achesak/nim-pwd"
+  },
+  {
+    "name": "spwd",
+    "url": "https://github.com/achesak/nim-spwd",
+    "method": "git",
+    "tags": [
+      "library",
+      "unix",
+      "spwd",
+      "password",
+      "shadow"
+    ],
+    "description": "Nim port of Python's spwd module for working with the UNIX shadow password file",
+    "license": "MIT",
+    "web": "https://github.com/achesak/nim-spwd"
+  },
+  {
+    "name": "grp",
+    "url": "https://github.com/achesak/nim-grp",
+    "method": "git",
+    "tags": [
+      "library",
+      "unix",
+      "grp",
+      "group"
+    ],
+    "description": "Nim port of Python's grp module for working with the UNIX group database file",
+    "license": "MIT",
+    "web": "https://github.com/achesak/nim-grp"
+  },
+  {
+    "name": "vidhdr",
+    "url": "https://github.com/achesak/nim-vidhdr",
+    "method": "git",
+    "tags": [
+      "video",
+      "formats",
+      "file"
+    ],
+    "description": "Library for detecting the format of an video file",
+    "license": "MIT",
+    "web": "https://github.com/achesak/nim-vidhdr"
+  },
+  {
+    "name": "gitapi",
+    "url": "https://github.com/achesak/nim-gitapi",
+    "method": "git",
+    "tags": [
+      "git",
+      "version control",
+      "library"
+    ],
+    "description": "Nim wrapper around the git version control software",
+    "license": "MIT",
+    "web": "https://github.com/achesak/nim-gitapi"
+  },
+  {
+    "name": "playlists",
+    "url": "https://github.com/achesak/nim-playlists",
+    "method": "git",
+    "tags": [
+      "library",
+      "playlists",
+      "M3U",
+      "PLS",
+      "XSPF"
+    ],
+    "description": "Nim library for parsing PLS, M3U, and XSPF playlist files",
+    "license": "MIT",
+    "web": "https://github.com/achesak/nim-playlists"
+  },
+  {
+    "name": "ris",
+    "url": "https://github.com/achesak/nim-ris",
+    "method": "git",
+    "tags": [
+      "RIS",
+      "citation",
+      "library"
+    ],
+    "description": "Module for working with RIS citation files",
+    "license": "MIT",
+    "web": "https://github.com/achesak/nim-ris"
+  },
+  {
+    "name": "geoip",
+    "url": "https://github.com/achesak/nim-geoip",
+    "method": "git",
+    "tags": [
+      "IP",
+      "address",
+      "location",
+      "geolocation"
+    ],
+    "description": "Retrieve info about a location from an IP address",
+    "license": "MIT",
+    "web": "https://github.com/achesak/nim-geoip"
+  },
+  {
+    "name": "freegeoip",
+    "url": "https://github.com/achesak/nim-freegeoip",
+    "method": "git",
+    "tags": [
+      "IP",
+      "address",
+      "location",
+      "geolocation"
+    ],
+    "description": "Retrieve info about a location from an IP address",
+    "license": "MIT",
+    "web": "https://github.com/achesak/nim-freegeoip"
+  },
+  {
+    "name": "pythonmath",
+    "url": "https://github.com/achesak/nim-pythonmath",
+    "method": "git",
+    "tags": [
+      "library",
+      "python",
+      "math"
+    ],
+    "description": "Module to provide an interface as similar as possible to Python's math libary",
+    "license": "MIT",
+    "web": "https://github.com/achesak/nim-pythonmath"
+  },
+  {
+    "name": "mangle",
+    "url": "https://github.com/baabelfish/mangle",
+    "method": "git",
+    "tags": [
+      "functional",
+      "iterators",
+      "lazy",
+      "library"
+    ],
+    "description": "Yet another iterator library",
+    "license": "MIT",
+    "web": "https://github.com/baabelfish/mangle"
+  },
+  {
+    "name": "subviewer",
+    "url": "https://github.com/achesak/nim-subviewer",
+    "method": "git",
+    "tags": [
+      "subviewer",
+      "subtitle"
+    ],
+    "description": "Nim module for parsing SubViewer subtitle files",
+    "license": "MIT",
+    "web": "https://github.com/achesak/nim-subviewer"
+  },
+  {
+    "name": "qrcode",
+    "description": "module for creating and reading QR codes using https://goqr.me/",
+    "tags": [
+      "qr",
+      "qrcode",
+      "api"
+    ],
+    "url": "https://github.com/achesak/nim-qrcode",
+    "web": "https://github.com/achesak/nim-qrcode",
+    "license": "MIT",
+    "method": "git"
+  },
+  {
+    "name": "gpx",
+    "tags": [
+      "GPX",
+      "GPS",
+      "waypoint",
+      "route"
+    ],
+    "method": "git",
+    "license": "MIT",
+    "description": "Nim module for parsing GPX (GPS Exchange format) files",
+    "web": "https://github.com/achesak/nim-gpx",
+    "url": "https://github.com/achesak/nim-gpx"
+  },
+  {
+    "name": "itn",
+    "tags": [
+      "GPS",
+      "intinerary",
+      "tomtom",
+      "ITN"
+    ],
+    "method": "git",
+    "license": "MIT",
+    "description": "Nim module for parsing ITN (TomTom intinerary) files",
+    "web": "https://github.com/achesak/nim-itn",
+    "url": "https://github.com/achesak/nim-itn"
+  },
+  {
+    "name": "fileinput",
+    "url": "https://github.com/achesak/nim-fileinput",
+    "method": "git",
+    "tags": [
+      "file",
+      "io",
+      "input"
+    ],
+    "description": "iterate through files and lines",
+    "license": "MIT",
+    "web": "https://github.com/achesak/nim-fileinput"
+  },
+  {
+    "name": "sol",
+    "url": "https://github.com/davidgarland/sol",
+    "method": "git",
+    "tags": [
+      "c99",
+      "c11",
+      "c",
+      "vector",
+      "simd",
+      "avx",
+      "avx2",
+      "neon"
+    ],
+    "description": "A SIMD-accelerated vector library written in C99 with Nim bindings.",
+    "license": "MIT",
+    "web": "https://github.com/davidgarland/sol"
+  },
+  {
+    "name": "binance",
+    "url": "https://github.com/Imperator26/binance",
+    "method": "git",
+    "tags": [
+      "library",
+      "api",
+      "binance"
+    ],
+    "description": "A Nim library to access the Binance API.",
+    "license": "Apache License 2.0",
+    "web": "https://github.com/Imperator26/binance"
+  },
+  {
+    "name": "nish",
+    "url": "https://github.com/owlinux1000/nish",
+    "method": "git",
+    "tags": [
+      "nish",
+      "shell"
+    ],
+    "description": "A Toy Shell Application",
+    "license": "MIT",
+    "web": "https://github.com/owlinux1000/nish"
+  },
+  {
+    "name": "gimei",
+    "url": "https://github.com/mkanenobu/nim-gimei",
+    "method": "git",
+    "tags": [
+      "japanese",
+      "library",
+      "unit-testing"
+    ],
+    "description": "random Japanese name and address generator",
+    "license": "MIT",
+    "web": "https://github.com/mkanenobu/nim-gimei"
+  },
+  {
+    "name": "nimQBittorrent",
+    "url": "https://github.com/faulander/nimQBittorrent",
+    "method": "git",
+    "tags": [
+      "torrent",
+      "qbittorrent",
+      "api",
+      "wrapper"
+    ],
+    "description": "a wrapper for the QBittorrent WebAPI for NIM.",
+    "license": "MIT",
+    "web": "https://github.com/faulander/nimQBittorrent"
+  },
+  {
+    "name": "inumon",
+    "url": "https://github.com/dizzyliam/inumon",
+    "method": "git",
+    "tags": [
+      "abandoned",
+      "image",
+      "images",
+      "png",
+      "image manipulation",
+      "jpeg",
+      "jpg"
+    ],
+    "description": "A high-level image I/O and manipulation library for Nim.",
+    "license": "MPL 2.0",
+    "web": "https://github.com/dizzyliam/inumon"
+  },
+  {
+    "name": "Echon",
+    "url": "https://github.com/eXodiquas/Echon",
+    "method": "git",
+    "tags": [
+      "generative",
+      "l-system",
+      "fractal",
+      "art"
+    ],
+    "description": "A small package to create lindenmayer-systems or l-systems.",
+    "license": "MIT",
+    "web": "https://github.com/eXodiquas/Echon"
+  },
+  {
+    "name": "miter",
+    "url": "https://github.com/rafmst/miter",
+    "method": "git",
+    "tags": [
+      "binary",
+      "tool",
+      "cli"
+    ],
+    "description": "Ratio calculator on your terminal",
+    "license": "MIT",
+    "web": "https://github.com/rafmst/miter"
+  },
+  {
+    "name": "sampleTodoList",
+    "url": "https://github.com/momeemt/SampleTodoList",
+    "method": "git",
+    "tags": [
+      "todo",
+      "app",
+      "cui"
+    ],
+    "description": "Sample Todo List Application",
+    "license": "MIT",
+    "web": "https://github.com/momeemt/SampleTodoList"
+  },
+  {
+    "name": "bs",
+    "url": "https://github.com/maubg-debug/build-sys",
+    "method": "git",
+    "tags": [
+      "bs",
+      "build-system",
+      "system",
+      "build"
+    ],
+    "description": "A good alternative to Makefile.",
+    "license": "MIT",
+    "web": "https://github.com/maubg-debug/build-sys"
+  },
+  {
+    "name": "flower",
+    "url": "https://github.com/dizzyliam/flower",
+    "method": "git",
+    "tags": [
+      "set"
+    ],
+    "description": "A pure Nim bloom filter.",
+    "license": "MIT",
+    "web": "https://github.com/dizzyliam/flower"
+  },
+  {
+    "name": "tome",
+    "url": "https://github.com/dizzyliam/tome",
+    "method": "git",
+    "tags": [
+      "nlp",
+      "language",
+      "ml"
+    ],
+    "description": "A natural language library.",
+    "license": "MIT",
+    "web": "https://github.com/dizzyliam/tome"
+  },
+  {
+    "name": "run_exe",
+    "url": "https://github.com/V0idMatr1x/run_exe",
+    "method": "git",
+    "tags": [
+      "lib",
+      "osproc",
+      "subprocess",
+      "dsl"
+    ],
+    "description": "A Scripting ToolBox that provides a declarative DSL for ultimate productivity!",
+    "license": "GPL-3.0-or-later",
+    "web": "https://github.com/V0idMatr1x/run_exe"
+  },
+  {
+    "name": "nage",
+    "url": "https://github.com/acikek/nage",
+    "method": "git",
+    "tags": [
+      "app",
+      "binary",
+      "game",
+      "engine",
+      "cli",
+      "rpg"
+    ],
+    "description": "Not Another Game Engine; CLI text adventure engine",
+    "license": "MIT",
+    "web": "https://github.com/acikek/nage"
+  },
+  {
+    "name": "NimNN",
+    "url": "https://github.com/amaank404/NimNN",
+    "method": "git",
+    "tags": [
+      "neural",
+      "networks",
+      "simulator",
+      "native",
+      "genetic"
+    ],
+    "description": "Neural Networks from scratch",
+    "license": "MIT",
+    "web": "https://github.com/amaank404/NimNN"
+  },
+  {
+    "name": "pigeon",
+    "url": "https://github.com/dizzyliam/pigeon",
+    "method": "git",
+    "tags": [
+      "webdev",
+      "api",
+      "HTTP"
+    ],
+    "description": "Define procedures on the server, call them from the browser.",
+    "license": "MIT"
+  },
+  {
+    "name": "sas",
+    "url": "https://github.com/xcodz-dot/sas",
+    "method": "git",
+    "tags": [
+      "emulator",
+      "cpu",
+      "architecture",
+      "toy",
+      "simulator",
+      "compiler"
+    ],
+    "description": "SAS compiler",
+    "license": "MIT",
+    "web": "https://github.com/xcodz-dot/sas"
+  },
+  {
+    "name": "apt_brain",
+    "url": "https://github.com/genkaisoft/apt-brain",
+    "method": "git",
+    "tags": [
+      "apt",
+      "for",
+      "SHARP",
+      "Brain"
+    ],
+    "description": "apt for SHARP Brain",
+    "license": "GPL-3.0-or-later",
+    "web": "https://github.com/genkaisoft/apt-brain"
+  },
+  {
+    "name": "uf2lib",
+    "url": "https://github.com/patrick-skamarak/uf2lib",
+    "method": "git",
+    "tags": [
+      "uf2",
+      "microcontroller",
+      "usb",
+      "flashing"
+    ],
+    "description": "A uf2 library for nim.",
+    "license": "MIT",
+    "web": "https://github.com/patrick-skamarak/uf2lib"
+  },
+  {
+    "name": "elfcore",
+    "url": "https://github.com/patrick-skamarak/elflib",
+    "method": "git",
+    "tags": [
+      "elf",
+      "executable",
+      "linking",
+      "format",
+      "binary"
+    ],
+    "description": "An elf file library for nim",
+    "license": "MIT",
+    "web": "https://github.com/patrick-skamarak/elflib"
+  },
+  {
+    "name": "nimx2",
+    "url": "https://github.com/777shuang/nimx2",
+    "method": "git",
+    "tags": [
+      "gui",
+      "library",
+      "cross-platform"
+    ],
+    "description": "GUI framework",
+    "license": "MIT",
+    "web": "https://github.com/777shuang/nimx2"
+  },
+  {
+    "name": "StripeKit",
+    "url": "https://github.com/vfehring/StripeKit",
+    "method": "git",
+    "tags": [
+      "payment-processor",
+      "stripe"
+    ],
+    "description": "Stripe API wrapper for Nim",
+    "license": "MIT",
+    "web": "https://github.com/vfehring/StripeKit"
+  },
+  {
+    "name": "nimmicrograd",
+    "url": "https://github.com/soheil555/nimmicrograd",
+    "method": "git",
+    "tags": [
+      "micrograd",
+      "neural-network",
+      "deep-learning",
+      "autograd-engine"
+    ],
+    "description": "Nim implementation of micrograd autograd engine.",
+    "license": "MIT",
+    "web": "https://github.com/soheil555/nimmicrograd"
+  },
+  {
+    "name": "musicSort",
+    "url": "https://github.com/CarkWilkinson/musicSort",
+    "method": "git",
+    "tags": [
+      "music"
+    ],
+    "description": "A tool to sort your mp3 music files based on id3 metadata",
+    "license": "MIT",
+    "web": "https://github.com/CarkWilkinson/musicSort"
+  },
+  {
+    "name": "dan_magaji",
+    "url": "https://github.com/C-NERD/dan_magaji",
+    "method": "git",
+    "tags": [
+      "proxy",
+      "http",
+      "ws",
+      "websocket",
+      "tcp",
+      "udp",
+      "extensible",
+      "server"
+    ],
+    "description": "extensible performant http and web socket proxy server",
+    "license": "MIT",
+    "web": "https://github.com/C-NERD/dan_magaji"
+  },
+  {
+    "name": "namenumbersort",
+    "url": "https://github.com/amaank404/namenumbersort",
+    "method": "git",
+    "tags": [
+      "sorting",
+      "hybrid",
+      "cmp"
+    ],
+    "description": "Provides a system.cmp like function that can be used with std/algorithm.sort to smartly sort string sequences based on their contents rather than exact match",
+    "license": "MIT",
+    "web": "https://github.com/amaank404/namenumbersort"
+  },
+  {
+    "name": "pathutils",
+    "url": "https://github.com/hmbemba/pathutils",
+    "method": "git",
+    "tags": [
+      "utils",
+      "paths",
+      "helper"
+    ],
+    "description": "Utilities for handling paths",
+    "license": "MIT",
+    "web": "https://github.com/hmbemba/pathutils"
+  },
+  {
+    "name": "twim",
+    "url": "https://github.com/aspiring-aster/twim",
+    "method": "git",
+    "tags": [
+      "library",
+      "development",
+      "twitter"
+    ],
+    "description": "A X(Formally known as Twitter) API wrapper library for Nim",
+    "license": "MIT",
+    "web": "https://aspiring-aster.github.io/twim/"
+  },
+  {
+    "name": "darwinmetrics",
+    "url": "https://github.com/sm-moshi/darwinmetrics",
+    "method": "git",
+    "tags": [
+      "macos",
+      "nim",
+      "async",
+      "monitoring",
+      "api",
+      "metrics",
+      "cpu",
+      "memory",
+      "disk",
+      "processes",
+      "gpu",
+      "power",
+      "network",
+      "darwin"
+    ],
+    "description": "System metrics library for macOS (Darwin) written in pure Nim — CPU, memory, disk, processes, and more.",
+    "license": "MIT",
+    "web": "https://github.com/sm-moshi/darwinmetrics"
+  }
+]
