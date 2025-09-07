@@ -1,37 +1,18 @@
 [
   {
-    "name": "nimtools",
-    "url": "https://github.com/alexzzzs/NimTools",
+    "name": "dogen",
+    "url": "https://github.com/roger-padrell/dogen",
     "method": "git",
     "tags": [
-      "a",
-      "utils",
-      "library",
-      "for",
-      "Nim"
+      "dogen",
+      "documentation",
+      "dog",
+      "docgen",
+      "doc",
+      "documentation generation"
     ],
-    "description": "Lightweight, zero-dependency Nim library with expressive helper APIs for numbers, strings, and collections",
+    "description": "DOGEN is a beautifully simple (to use) DOcumentation GENerator from nim files.",
     "license": "MIT",
-    "web": "https://github.com/alexzzzs/NimTools"
-  },
-  {
-    "name": "xcb_nim",
-    "url": "https://github.com/heysokam/xcb.nim",
-    "method": "git",
-    "tags": [
-      "xcb",
-      "X11",
-      "linux",
-      "libxcb",
-      "nimmified",
-      "ergonomic",
-      "library",
-      "bindings",
-      "wrapper",
-      "futhark"
-    ],
-    "description": "xcb.nim | Nimmified bindings for XCB",
-    "license": "MPL-2.0",
-    "web": "https://github.com/heysokam/xcb.nim"
+    "web": "https://roger-padrell.github.io/dogen/"
   }
 ]
